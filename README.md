@@ -19,6 +19,8 @@ This module requires you to install [SoX](http://sox.sourceforge.net) and it mus
 ### For Mac OS
 `brew install sox`
 
+You may also need [`fix-path`](https://www.npmjs.com/package/fix-path) to resolve `$PATH` issues.
+
 ### For most linux disto's
 `sudo apt-get install sox libsox-fmt-all`
 
